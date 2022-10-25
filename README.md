@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/o_sunday15" target="blank"><img src="https://img.shields.io/twitter/follow/o_sunday15?logo=twitter&style=for-the-badge" alt="o_sunday15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [linktr.ee/O.smith1502](linktr.ee/O.smith1502)
+- 👨‍💻 All of my projects are available at [osunday.vercel.app/works](osunday.vercel.app/works)
 
-- 💬 Ask me about **react, MERN, Serverless, Jamstack**
+- 💬 Ask me about **Javascript, Typescript, CMS, React, MERN, Serverless, Jamstack**
 
-- 📫 How to reach me **osunday1502@gmail.com**
+- 📫 How to reach me **olivianmegan11@gmail.com@gmail.com**
 
 - ⚡ Fun fact **I Smile Alot**
 
-- 📫 Currently working on **Open-Fashion Ecommerce Platform**
+- 📫 Currently working on **Open Source Insights Platform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

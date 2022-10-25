@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ogbonna Sunday</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A solution oriented Software Developer from Nigeria</h3>
 <img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sungoldtech&label=Profile%20views&color=0e75b6&style=flat" alt="sungoldtech" /> </p>
 

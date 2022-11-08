@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript, Typescript, CMS, React, MERN, Serverless, Jamstack**
 
-- 📫 How to reach me **olivianmegan11@gmail.com@gmail.com**
+- 📫 How to reach me **oliviamegan11@gmail.com**
 
 - ⚡ Fun fact **I Smile Alot**
 

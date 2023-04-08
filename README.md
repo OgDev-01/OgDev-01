@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OGBONNA SUNDAY</h1>
-<h3 align="center">A firm believer of the atomic design methodology. Strong foundation with collaboration and also a brave team player. Efficient understanding of React and functional programming fundamentals. 1 year of experience in the jamstack world✅.</h3>
+<h3 align="center">A firm believer of the atomic design methodology. Strong foundation with collaboration and also a brave team player. Efficient understanding of React and functional programming fundamentals. 2 year of experience in the jamstack world✅.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogdev-01&label=Profile%20views&color=0e75b6&style=flat" alt="ogdev-01" /> </p>
 

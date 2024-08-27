@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [open source insights platform](https://github.com/open-sauced/insights)
 
-- 🌱 I’m currently learning **React Native**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [ogbonna.dev](ogbonna.dev)

@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ogdev_01" target="blank"><img src="https://img.shields.io/twitter/follow/ogdev_01?logo=twitter&style=for-the-badge" alt="ogdev_01" /></a> </p>
 
-- 🔭 I’m currently working on [open source insights platform](https://github.com/open-sauced/insights)
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [ogbonna.dev](ogbonna.dev)

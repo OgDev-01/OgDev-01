@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OGBONNA SUNDAY</h1>
-<h3 align="center">A firm believer of the atomic design methodology. Strong foundation with collaboration and also a brave team player. Efficient understanding of React and functional programming fundamentals. 2 year of experience in the jamstack world✅.</h3>
+<h3 align="center">With over 5 years of experience as a Software Engineer, I specialise in Frontend and Mobile Development, designing and deploying cloud-ready applications using React, React Native, Node.js, Docker, and Kubernetes. My professional focus is on uncovering performance bottlenecks, transforming complex data into actionable insights, and delivering seamless digital experiences that scale globally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogdev-01&label=Profile%20views&color=0e75b6&style=flat" alt="ogdev-01" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [ogbonna.dev](ogbonna.dev)
 
-- 📝 I regularly write articles on [https://smitho.hashnode.dev/](https://smitho.hashnode.dev/)
+- 📝 I regularly write articles on [https://dev.to/](https://dev.to/og_dev))
 
-- 💬 Ask me about **React, Tailwind,Javascript, Typescript**
+- 💬 Ask me about **React, Tailwind,Javascript, Typescript, Docker, Expo, Nodejs**
 
-- 📫 How to reach me **oliviamegan11@gmail.com**
+- 📫 How to reach me **sundayogbonnadave@gmail.com**
 
-- ⚡ Fun fact **I'm funny to be with**
+- ⚡ Fun fact **I'm a manchester united Fan 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

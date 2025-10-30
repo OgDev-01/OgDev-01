@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogdev-01&show_icons=true&locale=en" alt="ogdev-01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogdev-01&" alt="ogdev-01" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ogdev-01)](https://git.io/streak-stats)
